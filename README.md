@@ -5,16 +5,6 @@ A significant portion of driving hazards is caused by human error and disregard 
 ![overall_diagram](https://user-images.githubusercontent.com/61879630/199366037-69f5a025-73d5-428b-a2de-5742532946d3.jpg)
 
 
-## Citation
-```python
-
-@article{kazerouni2023intelligent,
-  title={An intelligent modular real-time vision-based system for environment perception},
-  author={Kazerouni, Amirhossein and Heydarian, Amirhossein and Soltany, Milad and Mohammadshahi, Aida and Omidi, Abbas and Ebadollahi, Saeed},
-  journal={arXiv preprint arXiv:2303.16710},
-  year={2023}
-
-```
 
 ## Updates
 
@@ -82,14 +72,6 @@ Please download from [here](https://drive.google.com/uc?export=download&id=1-bRF
 2. DFG Traffic Sign Data Set [Link](https://www.vicos.si/Downloads/DFGTSD#:~:text=Dataset%20consists%20of%20200%20traffic,around%207000%20high%2Dresolution%20images.&text=The%20images%20have%20been%20anonymized,with%20the%20EU%20GDPR%20legislation.)
 
 
-## Our Team
-We as Team Pandas won 1st place in the National Rahneshan competition 2020-2021 for autonomous vehicles. This contest has been one of the most competitive and challenging contests in the Rahneshan tournaments with more than 15 teams competing from top universities in Iran.
-![Pandas6](https://user-images.githubusercontent.com/44018277/113591619-5e12c700-9649-11eb-805d-dd504081456e.jpg)
-
-### Contact us
-Feel free to contact us via email or connect with us on linkedin.
-
-- Milad Soltany --- [Linkedin](https://www.linkedin.com/in/milad-soltany/), [Github](https://github.com/miladsoltany) , [Email](mailto:soltany.m.99@gmail.com)
 - Abbas Omidi --- [Linkedin](https://www.linkedin.com/in/abbasomidi77/), [Github](https://github.com/abbasomidi77), [Email](mailto:abbasomidi77@gmail.com)
 - Amirhossein Kazerouni ---  [Linkedin](https://www.linkedin.com/in/amirhossein477/), [Github](https://github.com/amirhossein-kz), [Email](mailto:Amirhossein477@gmail.com )
 - Amirhossein Heydarian ---  [Linkedin](https://www.linkedin.com/in/amirhosseinh77/), [Github](https://github.com/amirhosseinh77), [Email](mailto:amirhossein4633@gmail.com )
