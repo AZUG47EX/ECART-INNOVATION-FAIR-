@@ -6,12 +6,6 @@ A significant portion of driving hazards is caused by human error and disregard 
 
 
 
-## Updates
-
-- October 20, 2022: Accepted in NeurIPS 2022 Workshop on Machine Learning for Autonomous Driving! :fire:
-- February 5, 2021: Won 1st place in the National Rahneshan competition 2020-2021 for autonomous vehicles! :tada:
-- January 10, 2021: First release.
-
 
 ## Results
 
